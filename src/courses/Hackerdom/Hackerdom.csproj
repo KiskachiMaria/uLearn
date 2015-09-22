@@ -53,6 +53,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
+    <Content Include="Slides\L010 - Криптография\S065 - Quiz.quiz.xml" />
+    <Content Include="Slides\L010 - Криптография\S055 - Quiz.quiz.xml" />
+    <Content Include="Slides\L010 - Криптография\S045 - Quiz.quiz.xml" />
+    <Content Include="Slides\L010 - Криптография\S025 - Quiz.quiz.xml" />
+    <Content Include="Slides\L010 - Криптография\S015 - Quiz.quiz.xml" />
     <Content Include="Slides\L010 - Криптография\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>

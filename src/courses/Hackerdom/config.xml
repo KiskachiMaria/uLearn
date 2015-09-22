@@ -1,0 +1,34 @@
+<!-- Replace default values in config with your values -->
+<Config>
+	<!-- Name of the organization that you used when creating a course -->
+	<Organization>UrFU</Organization>
+	<!-- Course Number that you used when creating a course -->
+	<CourseNumber>IMCS.b.CS-0093</CourseNumber>
+	<!-- Course Run that you used when creating a course -->
+	<CourseRun>2015</CourseRun>
+	<!-- Lti Id used to access Exercise slides -->
+	<LtiId>edx</LtiId>
+	<!-- Id of corresponding uLearn course -->
+	<ULearnCourseId>Hackerdom</ULearnCourseId>
+	<!-- Path to video json -->
+	<Video>video.json</Video>
+	<IgnoredUlearnSlides>
+		<!-- ULearn slides to skip during conversion and patching	-->
+		<!--
+		<SlideId>1</SlideId>
+		<SlideId>2</SlideId>
+		-->
+	</IgnoredUlearnSlides>
+	<!-- Here you can set up your profiles -->
+	<Profiles>
+		<!-- the 'default' profile will be used when patching/converting if not specified -->
+		<Profile name="default">
+			<EdxStudioUrl>https://openedu.urfu.ru:8081</EdxStudioUrl>
+			<UlearnUrl>https://ulearn.azurewebsites.net</UlearnUrl>
+		</Profile>
+		<Profile name="dev">
+			<EdxStudioUrl>http://192.168.33.10:18010</EdxStudioUrl>
+			<UlearnUrl>https://localhost:44300</UlearnUrl>
+		</Profile>
+	</Profiles>
+</Config>

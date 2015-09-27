@@ -50,6 +50,13 @@
     <Compile Include="Slides\L010 - Криптография\S040 - Корректность алгоритма RSA.cs" />
     <Compile Include="Slides\L010 - Криптография\S050 - Электронно-цифровая подпись.cs" />
     <Compile Include="Slides\L010 - Криптография\S060 - Заключительные положения.cs" />
+    <Compile Include="Slides\L020 - Хэши и биткоины\S010 - Хэш-функции.cs" />
+    <Compile Include="Slides\L020 - Хэши и биткоины\S020 - Применение хэш-функций.cs" />
+    <Compile Include="Slides\L020 - Хэши и биткоины\S030 - Криптографическая хэш-функция.cs" />
+    <Compile Include="Slides\L020 - Хэши и биткоины\S040 - Применение криптографических хэш-функций, часть 1.cs" />
+    <Compile Include="Slides\L020 - Хэши и биткоины\S050 - Применение криптостойких хэш-функций, часть 2.cs" />
+    <Compile Include="Slides\L020 - Хэши и биткоины\S060 - Архитектура Bitcoin.cs" />
+    <Compile Include="Slides\L020 - Хэши и биткоины\S070 - Экономика Bitcoin.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -59,6 +66,7 @@
     <Content Include="Slides\L010 - Криптография\S025 - Quiz.quiz.xml" />
     <Content Include="Slides\L010 - Криптография\S015 - Quiz.quiz.xml" />
     <Content Include="Slides\L010 - Криптография\Title.txt" />
+    <Content Include="Slides\L020 - Хэши и биткоины\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

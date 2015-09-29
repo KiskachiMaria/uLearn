@@ -3,8 +3,8 @@
 using uLearn;
 namespace Hackerdom 
 {
-    [Slide(@"Хэш-функции","248cee8f-1f7f-410a-a09a-93f8935b82ad")]
-    public class Хэш_функции
+    [Slide(@"Хеш-функции","248cee8f-1f7f-410a-a09a-93f8935b82ad")]
+    public class Хеш_функции
         {
 		//#video WhNV1mrDoeo
 

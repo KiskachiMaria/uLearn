@@ -57,6 +57,16 @@
     <Compile Include="Slides\L020 - Хеши и биткоины\S050 - Применение криптостойких хеш-функций, часть 2.cs" />
     <Compile Include="Slides\L020 - Хеши и биткоины\S060 - Архитектура Bitcoin.cs" />
     <Compile Include="Slides\L020 - Хеши и биткоины\S070 - Экономика Bitcoin.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S010 - История стеганографии.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S020 - Компьютерная стеганография.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S030 - Текстовая стеганография.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S040 - Стеганография в изображениях.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S050 - А если картинка в JPEG.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S060 - Стеганография в звуке и видео.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S070 - Стегоанализ.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S080 - Цифровые водяные знаки.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S090 - Практика.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S100 - Заключение.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -68,6 +78,8 @@
     <Content Include="Slides\L010 - Криптография\Title.txt" />
     <Content Include="Slides\L020 - Хеши и биткоины\S075 - Quiz.quiz.xml" />
     <Content Include="Slides\L020 - Хеши и биткоины\Title.txt" />
+    <Content Include="Slides\L030 - Стеганография\S105 - Quiz.quiz.xml" />
+    <Content Include="Slides\L030 - Стеганография\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

@@ -57,6 +57,27 @@
     <Compile Include="Slides\L020 - Хеши и биткоины\S050 - Применение криптостойких хеш-функций, часть 2.cs" />
     <Compile Include="Slides\L020 - Хеши и биткоины\S060 - Архитектура Bitcoin.cs" />
     <Compile Include="Slides\L020 - Хеши и биткоины\S070 - Экономика Bitcoin.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S010 - История стеганографии.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S020 - Компьютерная стеганография.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S030 - Текстовая стеганография.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S040 - Стеганография в изображениях.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S050 - А если картинка в JPEG.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S060 - Стеганография в звуке и видео.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S070 - Стегоанализ.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S080 - Цифровые водяные знаки.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S090 - Практика.cs" />
+    <Compile Include="Slides\L030 - Стеганография\S100 - Заключение.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S010 - Стэк OSI.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S020 - Стэк TCP IP.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S030 - Физический уровень.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S040 - Канальный уровень.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S050 - Сетевой уровень. IP-адреса.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S060 - Протокол DHCP.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S070 - Протокол ARP.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S080 - Маршрутизация.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S090 - Протокол TCP.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S100 - Порты.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S110 - Протокол NAT.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -64,10 +85,14 @@
     <Content Include="Slides\L010 - Криптография\S055 - Quiz.quiz.xml" />
     <Content Include="Slides\L010 - Криптография\S045 - Quiz.quiz.xml" />
     <Content Include="Slides\L010 - Криптография\S025 - Quiz.quiz.xml" />
-    <Content Include="Slides\L010 - Криптография\S015 - Quiz.quiz.xml" />
+    <Content Include="Slides\L010 - Криптография\S015 - Quiz.quiz.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Slides\L010 - Криптография\Title.txt" />
     <Content Include="Slides\L020 - Хеши и биткоины\S075 - Quiz.quiz.xml" />
     <Content Include="Slides\L020 - Хеши и биткоины\Title.txt" />
+    <Content Include="Slides\L030 - Стеганография\Title.txt" />
+    <Content Include="Slides\L040 - Сети, часть 1\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

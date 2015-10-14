@@ -78,6 +78,8 @@
     <Compile Include="Slides\L040 - Сети, часть 1\S090 - Протокол TCP.cs" />
     <Compile Include="Slides\L040 - Сети, часть 1\S100 - Порты.cs" />
     <Compile Include="Slides\L040 - Сети, часть 1\S110 - Протокол NAT.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S120 - Практика, часть 1.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S130 - Практика, часть 2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />

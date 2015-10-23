@@ -67,8 +67,8 @@
     <Compile Include="Slides\L030 - Стеганография\S080 - Цифровые водяные знаки.cs" />
     <Compile Include="Slides\L030 - Стеганография\S090 - Практика.cs" />
     <Compile Include="Slides\L030 - Стеганография\S100 - Заключение.cs" />
-    <Compile Include="Slides\L040 - Сети, часть 1\S010 - Стэк OSI.cs" />
-    <Compile Include="Slides\L040 - Сети, часть 1\S020 - Стэк TCP IP.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S010 - Стек OSI.cs" />
+    <Compile Include="Slides\L040 - Сети, часть 1\S020 - Стек TCP IP.cs" />
     <Compile Include="Slides\L040 - Сети, часть 1\S030 - Физический уровень.cs" />
     <Compile Include="Slides\L040 - Сети, часть 1\S040 - Канальный уровень.cs" />
     <Compile Include="Slides\L040 - Сети, часть 1\S050 - Сетевой уровень. IP-адреса.cs" />

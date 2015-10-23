@@ -3,8 +3,8 @@
 using uLearn;
 namespace Hackerdom 
 {
-    [Slide(@"Стэк TCP IP","9fd33d4b-d1b3-4cee-a5eb-4e6029dbad78")]
-    public class Стэк_TCP_IP
+    [Slide(@"Стек TCP IP","9fd33d4b-d1b3-4cee-a5eb-4e6029dbad78")]
+    public class Стек_TCP_IP
         {
 		//#video MCK5KB-6kmw
 

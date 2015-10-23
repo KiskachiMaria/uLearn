@@ -80,6 +80,15 @@
     <Compile Include="Slides\L040 - Сети, часть 1\S110 - Протокол NAT.cs" />
     <Compile Include="Slides\L040 - Сети, часть 1\S120 - Практика, часть 1.cs" />
     <Compile Include="Slides\L040 - Сети, часть 1\S130 - Практика, часть 2.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S010 - Протоколы прикладного уровня.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S020 - Протокол DNS.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S030 - Иерархия NS-серверов.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S040 - Отравления кеша в DNS.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S050 - Дополнительные подробности о DNS.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S060 - Протокол FTP.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S070 - Дополнительные подробности о FTP.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S080 - Протокол SMTP.cs" />
+    <Compile Include="Slides\L050 - Сети, часть 2\S090 - Туннелирование и VPN.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -95,6 +104,7 @@
     <Content Include="Slides\L020 - Хеши и биткоины\Title.txt" />
     <Content Include="Slides\L030 - Стеганография\Title.txt" />
     <Content Include="Slides\L040 - Сети, часть 1\Title.txt" />
+    <Content Include="Slides\L050 - Сети, часть 2\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

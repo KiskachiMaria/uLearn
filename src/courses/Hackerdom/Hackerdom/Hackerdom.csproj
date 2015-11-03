@@ -89,6 +89,17 @@
     <Compile Include="Slides\L050 - Сети, часть 2\S070 - Дополнительные подробности о FTP.cs" />
     <Compile Include="Slides\L050 - Сети, часть 2\S080 - Протокол SMTP.cs" />
     <Compile Include="Slides\L050 - Сети, часть 2\S090 - Туннелирование и VPN.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S010 - История HTTP.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S020 - Структура HTTP.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S030 - URL.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S040 - Методы HTTP.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S050 - Заголовки, часть 1.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S060 - Заголовки, часть 2.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S070 - Авторизация и аутентификация.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S080 - Протокол HTTPS.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S090 - Протокол CGI.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S100 - HTML и формы.cs" />
+    <Compile Include="Slides\L060 - Протокол HTTP\S110 - Атаки на HTML.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -107,6 +118,7 @@
     <Content Include="Slides\L040 - Сети, часть 1\S135 - Quiz.quiz.xml" />
     <Content Include="Slides\L040 - Сети, часть 1\Title.txt" />
     <Content Include="Slides\L050 - Сети, часть 2\Title.txt" />
+    <Content Include="Slides\L060 - Протокол HTTP\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

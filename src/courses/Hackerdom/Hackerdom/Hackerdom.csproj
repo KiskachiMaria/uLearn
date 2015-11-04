@@ -119,6 +119,7 @@
     <Content Include="Slides\L040 - Сети, часть 1\Title.txt" />
     <Content Include="Slides\L050 - Сети, часть 2\S095 - Quiz.quiz.xml" />
     <Content Include="Slides\L050 - Сети, часть 2\Title.txt" />
+    <Content Include="Slides\L060 - Протокол HTTP\S115 - Quiz.quiz.xml" />
     <Content Include="Slides\L060 - Протокол HTTP\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>

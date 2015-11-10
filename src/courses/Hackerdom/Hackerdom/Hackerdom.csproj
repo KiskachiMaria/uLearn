@@ -100,6 +100,20 @@
     <Compile Include="Slides\L060 - Протокол HTTP\S090 - Протокол CGI.cs" />
     <Compile Include="Slides\L060 - Протокол HTTP\S100 - HTML и формы.cs" />
     <Compile Include="Slides\L060 - Протокол HTTP\S110 - Атаки на HTML.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S010 - Инъекции.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S020 - SQL-инъекции.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S030 - SQL-инъекции с UNION.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S040 - Группировка, сортировка и работа с файлами.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S050 - Экранирование символов.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S060 - Множественные запросы.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S070 - Слепые инъекции.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S080 - NoSQL .cs" />
+    <Compile Include="Slides\L070 - Инъекции\S090 - CSS.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S100 - LDAP.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S110 - XPath.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S120 - Инъекции в командах ОС.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S130 - Инъекции в HTTP-заголовки.cs" />
+    <Compile Include="Slides\L070 - Инъекции\S140 - Заключение.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -121,6 +135,7 @@
     <Content Include="Slides\L050 - Сети, часть 2\Title.txt" />
     <Content Include="Slides\L060 - Протокол HTTP\S115 - Quiz.quiz.xml" />
     <Content Include="Slides\L060 - Протокол HTTP\Title.txt" />
+    <Content Include="Slides\L070 - Инъекции\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

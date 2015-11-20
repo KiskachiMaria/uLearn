@@ -146,6 +146,7 @@
     <Content Include="Slides\L060 - Протокол HTTP\Title.txt" />
     <Content Include="Slides\L070 - Инъекции\S145 - Quiz.quiz.xml" />
     <Content Include="Slides\L070 - Инъекции\Title.txt" />
+    <Content Include="Slides\L080 - Linux\S095 - Quiz.quiz.xml" />
     <Content Include="Slides\L080 - Linux\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>

@@ -114,6 +114,15 @@
     <Compile Include="Slides\L070 - Инъекции\S120 - Инъекции в командах ОС.cs" />
     <Compile Include="Slides\L070 - Инъекции\S130 - Инъекции в HTTP-заголовки.cs" />
     <Compile Include="Slides\L070 - Инъекции\S140 - Заключение.cs" />
+    <Compile Include="Slides\L080 - Linux\S010 - Операционные системы.cs" />
+    <Compile Include="Slides\L080 - Linux\S020 - GNU, FSF.cs" />
+    <Compile Include="Slides\L080 - Linux\S030 - Стандарт POSIX, Minix.cs" />
+    <Compile Include="Slides\L080 - Linux\S040 - История Linux, дистрибутивы.cs" />
+    <Compile Include="Slides\L080 - Linux\S050 - Unix Way.cs" />
+    <Compile Include="Slides\L080 - Linux\S060 - Загрузка системы.cs" />
+    <Compile Include="Slides\L080 - Linux\S070 - Пользователи.cs" />
+    <Compile Include="Slides\L080 - Linux\S080 - Команды Linux.cs" />
+    <Compile Include="Slides\L080 - Linux\S090 - Виртуальные машины.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -137,6 +146,7 @@
     <Content Include="Slides\L060 - Протокол HTTP\Title.txt" />
     <Content Include="Slides\L070 - Инъекции\S145 - Quiz.quiz.xml" />
     <Content Include="Slides\L070 - Инъекции\Title.txt" />
+    <Content Include="Slides\L080 - Linux\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ namespace Hackerdom
     [Slide(@"Операционные системы","ed14c5f4-1061-4c62-9497-67a8ddcb4a9d")]
     public class Операционные_системы
         {
-		//#video TEN070XgoPA
+		//#video GYYqIdgHD6c
 
         }
 }

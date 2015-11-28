@@ -6,7 +6,7 @@ namespace Hackerdom
     [Slide(@"История Linux, дистрибутивы","745cd0a2-dee1-4596-ba6e-345edf3dda39")]
     public class История_Linux__дистрибутивы
         {
-		//#video 6-miVE9hyQk
+		//#video 6Yez_CHvN3w
 
         }
 }

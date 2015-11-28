@@ -6,7 +6,7 @@ namespace Hackerdom
     [Slide(@"Команды Linux","199bdd47-8111-427d-8677-00e434745302")]
     public class Команды_Linux
         {
-		//#video Q_7eBZCm2Wc
+		//#video 2OV4d9-aXao
 
         }
 }

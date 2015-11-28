@@ -6,7 +6,7 @@ namespace Hackerdom
     [Slide(@"Стандарт POSIX, Minix","da17f8a5-e4bb-42bd-a601-478d62bb4a5d")]
     public class Стандарт_POSIX__Minix
         {
-		//#video 7MufWEokX1o
+		//#video -ZT8Z7yp8nw
 
         }
 }

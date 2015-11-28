@@ -6,7 +6,7 @@ namespace Hackerdom
     [Slide(@"Загрузка системы","a0357ffa-f00f-4030-be9c-159633c3568a")]
     public class Загрузка_системы
         {
-		//#video NSGfYNl1GYQ
+		//#video jCOHJfgHMx4
 
         }
 }

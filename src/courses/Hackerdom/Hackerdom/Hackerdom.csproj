@@ -123,6 +123,18 @@
     <Compile Include="Slides\L080 - Linux\S070 - Пользователи.cs" />
     <Compile Include="Slides\L080 - Linux\S080 - Команды Linux.cs" />
     <Compile Include="Slides\L080 - Linux\S090 - Виртуальные машины.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S010 - Архитектура компьютера.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S020 - Принцип Фон Неймана.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S030 - Регистры процессоров.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S040 - Ассемблер.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S050 - Команда MOV.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S060 - Стек.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S070 - Арифметические и логические операции.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S080 - Знаковые числа.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S090 - Безусловный переход.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S100 - Управление выполнением программы.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S110 - Функции.cs" />
+    <Compile Include="Slides\L090 - Низкоуровневое программирование\S120 - Структура исполняемого файла.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -148,6 +160,7 @@
     <Content Include="Slides\L070 - Инъекции\Title.txt" />
     <Content Include="Slides\L080 - Linux\S095 - Quiz.quiz.xml" />
     <Content Include="Slides\L080 - Linux\Title.txt" />
+    <Content Include="Slides\L090 - Низкоуровневое программирование\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

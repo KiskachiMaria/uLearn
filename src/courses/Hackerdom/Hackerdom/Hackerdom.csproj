@@ -135,6 +135,13 @@
     <Compile Include="Slides\L090 - Низкоуровневое программирование\S100 - Управление выполнением программы.cs" />
     <Compile Include="Slides\L090 - Низкоуровневое программирование\S110 - Функции.cs" />
     <Compile Include="Slides\L090 - Низкоуровневое программирование\S120 - Структура исполняемого файла.cs" />
+    <Compile Include="Slides\L100 - Reverse Engineering\S010 - Введение в Reverse Engineering.cs" />
+    <Compile Include="Slides\L100 - Reverse Engineering\S020 - Форматы исполняемых файлов.cs" />
+    <Compile Include="Slides\L100 - Reverse Engineering\S030 - Как устроен РЕ-файл.cs" />
+    <Compile Include="Slides\L100 - Reverse Engineering\S040 - Паттерны исполняемого кода.cs" />
+    <Compile Include="Slides\L100 - Reverse Engineering\S050 - Объектно-ориентированное программирование.cs" />
+    <Compile Include="Slides\L100 - Reverse Engineering\S060 - Пакеры.cs" />
+    <Compile Include="Slides\L100 - Reverse Engineering\S070 - Антиотладка.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -161,6 +168,7 @@
     <Content Include="Slides\L080 - Linux\S095 - Quiz.quiz.xml" />
     <Content Include="Slides\L080 - Linux\Title.txt" />
     <Content Include="Slides\L090 - Низкоуровневое программирование\Title.txt" />
+    <Content Include="Slides\L100 - Reverse Engineering\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>

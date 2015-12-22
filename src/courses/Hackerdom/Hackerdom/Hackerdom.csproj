@@ -142,6 +142,13 @@
     <Compile Include="Slides\L100 - Reverse Engineering\S050 - Объектно-ориентированное программирование.cs" />
     <Compile Include="Slides\L100 - Reverse Engineering\S060 - Пакеры.cs" />
     <Compile Include="Slides\L100 - Reverse Engineering\S070 - Антиотладка.cs" />
+    <Compile Include="Slides\L110 - Бинарные уязвимости\S010 - Введение в бинарные уязвимости.cs" />
+    <Compile Include="Slides\L110 - Бинарные уязвимости\S020 - Отладчик GDB.cs" />
+    <Compile Include="Slides\L110 - Бинарные уязвимости\S030 - Переполнение стека.cs" />
+    <Compile Include="Slides\L110 - Бинарные уязвимости\S040 - Исполнение кода, шеллкод.cs" />
+    <Compile Include="Slides\L110 - Бинарные уязвимости\S050 - OpenSSL Heartbleed.cs" />
+    <Compile Include="Slides\L110 - Бинарные уязвимости\S060 - Уязвимость форматной строки.cs" />
+    <Compile Include="Slides\L110 - Бинарные уязвимости\S070 - Запись произвольной памяти.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Slides\L000 - Вводная лекция\Title.txt" />
@@ -173,6 +180,7 @@
     <Content Include="Slides\L090 - Низкоуровневое программирование\Title.txt" />
     <Content Include="Slides\L090 - Низкоуровневое программирование\S125 - Quiz.quiz.xml" />
     <Content Include="Slides\L100 - Reverse Engineering\Title.txt" />
+    <Content Include="Slides\L110 - Бинарные уязвимости\Title.txt" />
     <Content Include="Slides\Title.txt" />
   </ItemGroup>
   <ItemGroup>
